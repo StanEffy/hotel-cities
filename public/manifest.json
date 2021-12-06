@@ -1,6 +1,6 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "short_name": "SixSities",
+  "name": "React app where you can find some space",
   "icons": [
     {
       "src": "favicon.ico",

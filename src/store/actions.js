@@ -1,0 +1,9 @@
+export const CHANGE_CITY = `CHANGE_CITY`
+export const GET_OFFERS = `GET_OFFERS`
+export const GET_CITIES = `GET_CITIES`
+export const IS_AUTH_REQUIRED = `IS_AUTH_REQUIRED`
+export const SET_USER_INFO = `SET_USER_INFO`
+export const CHANGE_AUTH_STATUS = `CHANGE_AUTH_STATUS`
+export const UPDATE_SORTING = `UPDATE_SORTING`
+export const SET_CITY_HOTELS = `SET_CITY_HOTELS`
+export const RESORT_HOTELS = `RESORT_HOTELS`
